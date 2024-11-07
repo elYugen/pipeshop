@@ -1,3 +1,10 @@
 body {
-    background-color: skyblue;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+
+.banner {
+    background-image: url('/vraiboisdeboulogne.png');
+    background-size: cover;
 }
