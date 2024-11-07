@@ -1,1 +1,1 @@
-https://freshcart.codescandy.com/pages/index-2.html#
+https://docs.stripe.com/
